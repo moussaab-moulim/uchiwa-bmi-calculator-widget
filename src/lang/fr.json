@@ -9,7 +9,7 @@
     "result.score":"Votre BMI est :{score}",
     "result.type":"Vous êtes :{score}",
     "result.message":"Utilisé notre bilan personnalisé pour un plan détaillé afin d'achever votre taille de rêve",
-    "result.label.underweight":"Maigreur",
+    "result.label.underweight":"Maigreur ",
     "result.label.healthy":"Normal",
     "result.label.overweight":"Surpoids",
     "result.label.obese":"obèse",

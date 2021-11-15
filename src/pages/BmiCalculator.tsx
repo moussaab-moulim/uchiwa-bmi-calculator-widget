@@ -39,7 +39,8 @@ function BmiCalculator() {
       setCalculated(false);
     };
     const getScoreStatus = (currentScore:number) => {
-      if (currentScore <= 18.5) {
+      return "you are hot and sexy go kiss Moussaab";
+ /*      if (currentScore <= 18.5) {
         return intl.formatMessage({id:"result.label.underweight"});
       } else if (currentScore <= 24.9) {
         return  intl.formatMessage({id:"result.label.healthy"});
@@ -47,7 +48,7 @@ function BmiCalculator() {
         return  intl.formatMessage({id:"result.label.overweight"});
       } else {
         return  intl.formatMessage({id:"result.label.obese"});
-      }
+      } */
     };
     const dataSource = [
       {
