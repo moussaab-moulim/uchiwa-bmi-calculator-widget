@@ -1,0 +1,22 @@
+{
+    "widget.title":"CALCULER VOTRE BMI",
+    "widget.description":"Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.",
+    "form.input.height":"Taille / cm",
+    "form.input.weight":"Poids / kg",
+    "form.input.age.suffix":"ans",
+    "form.input.age":"Age",
+    "form.button.calculate":"Calculer",
+    "result.score":"Votre BMI est :{score}",
+    "result.type":"Vous êtes :{score}",
+    "result.message":"Utilisé notre bilan personnalisé pour un plan détaillé afin d'achever votre taille de rêve",
+    "result.label.underweight":"Maigreur",
+    "result.label.healthy":"Normal",
+    "result.label.overweight":"Surpoids",
+    "result.label.obese":"obèse",
+    "result.label.underweight.table":"Moins de 18.5",
+    "result.label.healthy.table":"18.5 - 24.9",
+    "result.label.overweight.table":"25.0 - 29.9",
+    "result.label.obese.table":"30.0 - et Plus",
+    "table.title.bmi":"BMI",
+    "table.title.status":"STATUT DE POIDS"
+}
