@@ -1,12 +1,12 @@
 {
-    "widget.title":"CALCULER VOTRE BMI",
-    "widget.description":"Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.",
+    "widget.title":"CALCULER VOTRE IMC",
+    "widget.description":"J’ai mis pour toi cet outil de calcul de l’indicateur de masse corporel (IMC). Si tu ne pratique pas ou peu d’exercice et que tu veux savoir si ton poids est adapté à ta taille, n’hésite pas de faire le test. Le résultat sera discuté lors de ta première séance d’évaluation offerte.",
     "form.input.height":"Taille / cm",
     "form.input.weight":"Poids / kg",
     "form.input.age.suffix":"ans",
     "form.input.age":"Age",
     "form.button.calculate":"Calculer",
-    "result.score":"Votre BMI est :{score}",
+    "result.score":"Votre IMC est :{score}",
     "result.type":"Vous êtes :{score}",
     "result.message":"Utilisé notre bilan personnalisé pour un plan détaillé afin d'achever votre taille de rêve",
     "result.label.underweight":"Maigreur ",
@@ -17,6 +17,6 @@
     "result.label.healthy.table":"18.5 - 24.9",
     "result.label.overweight.table":"25.0 - 29.9",
     "result.label.obese.table":"30.0 - et Plus",
-    "table.title.bmi":"BMI",
+    "table.title.bmi":"IMC",
     "table.title.status":"STATUT DE POIDS"
 }
