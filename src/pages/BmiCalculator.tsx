@@ -237,6 +237,8 @@ export const Column = styled.div`
     background: transparent;
   }
   @media screen and (max-width: 768px){
+    padding-left: 0px;
+  padding-right: 0px;
     width: 100%;
   }
 `;
