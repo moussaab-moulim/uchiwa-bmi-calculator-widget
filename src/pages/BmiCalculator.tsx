@@ -11,6 +11,7 @@ function BmiCalculator() {
     const [score, setScore] = useState<number>(0);
     const [calculated, setCalculated] = useState<boolean>(false);
     const getNumber = (number: string) => {
+        // eslint-disable-next-line 
       if (+number === +number) {
         // if is a number
         return number;
