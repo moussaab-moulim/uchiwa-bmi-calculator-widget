@@ -18,5 +18,6 @@
     "result.label.overweight.table":"25.0 - 29.9",
     "result.label.obese.table":"30.0 - et Plus",
     "table.title.bmi":"IMC",
-    "table.title.status":"STATUT DE POIDS"
+    "table.title.status":"STATUT DE POIDS",
+    "table.hint":"Indice de masse corporelle"
 }

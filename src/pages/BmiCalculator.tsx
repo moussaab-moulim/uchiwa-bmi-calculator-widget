@@ -197,7 +197,7 @@ function BmiCalculator() {
           pagination={false}
         />
         <Description>
-          <strong>BMI</strong> Body Mass Index
+          <strong><FormattedMessage id="table.title.bmi"/></strong> <FormattedMessage id="table.hint"/>
         </Description>
       </Column>
     </Container>
